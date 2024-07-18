@@ -25,7 +25,7 @@ WARNING⚠️: This isn't a Google account generator.
 **note: most meta products wont work**
 | Status | Service       |
 | - | ------ |
-| 🚫| Facebook |
-| 🚫| Instagram |   
-| 🚫| Steam | 
+| ✅| Facebook |
+| ✅| Instagram |   
+| ✅| Steam | 
 | ✅| Discord |
